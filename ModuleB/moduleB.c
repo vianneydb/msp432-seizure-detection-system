@@ -1,9 +1,11 @@
 /****************
-Author: Mauricio Aranda
-Institution: The University of Texas at El Paso
-
-Date:5/7/2026
-*****************/
+ * Module B code for Seizure Detection System
+ *
+ * Author: Mauricio Aranda
+ * Institution: The University of Texas at El Paso
+ *
+ * Date:5/7/2026
+ *****************/
 
 #include "msp.h"
 #include <stdio.h>

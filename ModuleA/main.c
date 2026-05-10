@@ -1,9 +1,11 @@
 /****************
-Author: Vianney Diaz-Barraza
-Institution: The University of Texas at El Paso
-
-Date:5/7/2026
-*****************/
+ * Module A code for Seizure Detection System
+ * 
+ * Author: Vianney Diaz-Barraza
+ * Institution: The University of Texas at El Paso
+ *
+ * Date:5/7/2026
+ *****************/
 
 #include <lcdLib_432.h>
 #include <math.h>

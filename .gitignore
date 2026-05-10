@@ -1,7 +1,20 @@
+# CCS / Eclipse
+.settings/
+.launches/
+.metadata/
+targetConfigs/
+.ccsproject
+.project
+.cproject
+
+# Build folders
 Debug/
 Release/
-*.out
+
+# macOS
+.DS_Store
+
+# Object files
 *.o
 *.d
-.metadata/
-.settings/
+*.out
